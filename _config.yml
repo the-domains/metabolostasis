@@ -1,28 +1,40 @@
-name: Metabolostasis
 favicon: null
-layout_spectrum: 0.014028372708708048
-typography_spectrum: 0.77184
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Metabolostasis
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.22089404775761068
-  lightness: 0.32276518479920924
-  saturation: 0.743728063069284
-  rhythmicContrast: 0.9645570798311383
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.743728063069284
+  brandStrength: 0.2208940477576107
+  lightness: 0.3227651847992092
+  brandColors:
+    - '#FFFFFF'
+    - '#4071B7'
+    - '#93AFD6'
+    - '#9B52A0'
+    - '#FDCF0A'
+  rhythmicContrast: 0.9645570798311383
+typography_spectrum: 0.77184
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.01402837270870805
+analytics:
+  twitter: null
+  google: null
+  facebook: null
