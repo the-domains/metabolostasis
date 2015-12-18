@@ -1,6 +1,6 @@
 name: Metabolostasis
 favicon: null
-layout_spectrum: 0.6037099
+layout_spectrum: 0.38474
 typography_spectrum: 0.2293423
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#93AFD6'
     - '#9B52A0'
     - '#FDCF0A'
-  brandStrength: 0.2208940477576107
+  brandStrength: 0.3125
   lightness: 0.3227652
   saturation: 0.743728
   rhythmicContrast: 0.5809444
