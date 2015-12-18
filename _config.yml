@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.743728
-  brandStrength: 0.7242833
+  saturation: 0.123946
   lightness: 0.3227652
+  brandStrength: 0.7242833
   brandColors:
     - '#FFFFFF'
     - '#4071B7'
     - '#93AFD6'
     - '#9B52A0'
     - '#FDCF0A'
-  rhythmicContrast: 0.5809444
+  rhythmicContrast: 0.8322091
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: Metabolostasis
 favicon: null
+name: Metabolostasis
 opengraph:
   image: null
   type: null
