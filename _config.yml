@@ -1,0 +1,28 @@
+name: Metabolostasis
+favicon: null
+layout_spectrum: 0.014028372708708048
+typography_spectrum: 0.24627709086053073
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.22089404775761068
+  lightness: 0.32276518479920924
+  saturation: 0.743728063069284
+  rhythmicContrast: 0.9645570798311383
+purpose: []
