@@ -1,5 +1,4 @@
-favicon: null
-name: Metabolostasis
+layout_spectrum: 0.01402837270870805
 opengraph:
   image: null
   type: null
@@ -19,8 +18,8 @@ collections:
 purpose: []
 color:
   saturation: 0.743728063069284
-  brandStrength: 0.2208940477576107
   lightness: 0.3227651847992092
+  brandStrength: 0.2208940477576107
   brandColors:
     - '#FFFFFF'
     - '#4071B7'
@@ -33,8 +32,9 @@ cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.01402837270870805
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Metabolostasis
