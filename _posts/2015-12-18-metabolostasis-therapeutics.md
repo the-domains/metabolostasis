@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-18T18:18:51.417Z'
-dateModified: '2015-12-18T18:07:35.538Z'
+description: Improving human health one disease at a time
+datePublished: '2015-12-18T18:59:17.442Z'
+dateModified: '2015-12-18T18:59:02.157Z'
 title: MetaboloStasis Therapeutics
 author: []
+sourcePath: _posts/2015-12-18-metabolostasis-therapeutics.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-18-metabolostasis-therapeutics.md
-published: true
 url: metabolostasis-therapeutics/index.html
 _type: Article
 
