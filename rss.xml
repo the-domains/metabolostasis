@@ -4,7 +4,7 @@
         <description><![CDATA[MetaboloStasis Therapeutics ]]></description>
         <link>https://thegrid.ai/metabolostasis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Dec 2015 18:59:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 19:57:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/metabolostasis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[MetaboloStasis Therapeutics]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/metabolostasis/metabolostasis-therapeutics/index.html</link>
             <guid isPermaLink="false">086d9976-0b34-40f1-82e6-7a802dc4c581</guid>
             <pubDate>Fri, 18 Dec 2015 18:59:17 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Home ]]></title>
+            <description><![CDATA[<article><h1>Home </h1><p>METABOLOSTASIS THERAPEUTICS is committed to the development of novel therapeutics for the treatment of rare diseases. Current research focuses on disorders of copper metabolism, an essential micro-nutrient whose deficiency or excess leads to immune dysfunction, heart disease, tumor development as well as dramatic neurodegeneration.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a8ea4e47b7281cfcbd68e34d705b44276f06a0b0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/metabolostasis/home/index.html</link>
+            <guid isPermaLink="false">f046ee45-12eb-4111-92f5-ee916d2ec222</guid>
+            <pubDate>Sat, 19 Dec 2015 19:57:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
