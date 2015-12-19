@@ -1,5 +1,8 @@
+name: Metabolostasis
+favicon: null
+layout_spectrum: 0.42268
+typography_spectrum: 0.80703
 title: 'MetaboloStasis Therapeutics '
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.123946
-  brandStrength: 0.7242833
-  rhythmicContrast: 0.8322091
   brandColors:
     - '#FFFFFF'
     - '#4071B7'
     - '#93AFD6'
     - '#9B52A0'
     - '#FDCF0A'
+  brandStrength: 0.7242833
   lightness: 0.3227652
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: Metabolostasis
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.9376054
-layout_spectrum: 0
+  saturation: 0.123946
+  rhythmicContrast: 0.8322091
+purpose: []
